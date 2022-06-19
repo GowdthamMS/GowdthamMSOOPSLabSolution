@@ -9,7 +9,6 @@ public class DriverClass {
 		Employee employee = new Employee("Gowdtham", "MS");
 		CredentialService cs = new CredentialService();
 		String generatedEmail;
-		char[] generatedPassword;
 
 		System.out.println("Please Enter the department from the following");
 		System.out.println("1. Technical");
